@@ -1,6 +1,6 @@
 # 🎮 Nintendo Store
 
-Tienda oficial de Nintendo desarrollada por **Isaac Esteban Haro Torres**.
+Tienda prototipo de Nintendo desarrollada por **Isaac Esteban Haro Torres**.
 
 ---
 
