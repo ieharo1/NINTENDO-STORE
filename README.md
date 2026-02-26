@@ -1,20 +1,25 @@
-# 🌐 Prototipo Página Web Nintendo Bootstrap & CSS
+# 🎮 Nintendo Store
 
-Prototipo de página web inspirada en Nintendo desarrollado por **Isaac Esteban Haro Torres**.
+Tienda oficial de Nintendo desarrollada por **Isaac Esteban Haro Torres**.
 
 ---
 
 ## 📝 Descripción
 
-Prototipo de sitio web con diseño inspirado en Nintendo.
+Página de venta profesional con:
+- 🛒 Carrito de compras funcional
+- 🎮展示 Productos: Consolas, accesorios, juegos
+- 📱 Diseño responsivo moderno
+- ⚡ Animaciones y efectos visuales
+- 🔥 Sistema de notificaciones
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-- HTML
-- CSS
-- Bootstrap
+- HTML5
+- CSS3 (moderno, animaciones)
+- JavaScript (interactividad)
 
 ---
 
